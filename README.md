@@ -19,18 +19,6 @@ collaborative-todo-list/ ├── README.md       # Project documentation ├�
 
 ## 📝 How to Run the Project
 
-Key points:
-
-Use three backticks before and after the directory structure.
-
-Don’t use extra backticks for the inner block (markdown or plaintext)—this isn't needed inside a code block.
-
-
-Now, this should work perfectly when you copy and paste into your README file. It will show the directory structure as a code block and the rest of the content will remain unaffected. Let me know how it goes!
-
-
-## 📝 How to Run the Project
-
 Follow these steps to replicate the project:
 
 1. **Clone the Repository**: Clone the GitHub repository to your local machine:
