@@ -13,7 +13,7 @@ This project simulates a real-world **Git collaboration workflow**, allowing con
 - **Git**: For version control.
 - **GitHub**: For collaboration, pull requests, and repository hosting.
 
-## 📂 Repository Structure
+```## 📂 Repository Structure
 
 ````markdown
 collaborative-todo-list/
