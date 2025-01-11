@@ -20,9 +20,8 @@ collaborative-todo-list/
 ├── task.md         # File added during feature development
 
 
-I see what might be happening! Let's focus on just the "How to Run the Project" section and ensure everything works. In Markdown, anything inside triple backticks is interpreted as a code block, which is likely causing the issue you’re facing with the comment formatting.
 
-Here's the corrected version for the "How to Run the Project" section:
+
 
 ## 📝 How to Run the Project
 
