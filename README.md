@@ -13,12 +13,21 @@ This project simulates a real-world **Git collaboration workflow**, allowing con
 - **Git**: For version control.
 - **GitHub**: For collaboration, pull requests, and repository hosting.
 
-```## 📂 Repository Structure
+## 📂 Repository Structure
 
-````markdown
-collaborative-todo-list/
-├── README.md       # Project documentation
-├── task.md         # File added during feature development
+collaborative-todo-list/ ├── README.md       # Project documentation ├── task.md         # File added during feature development
+
+## 📝 How to Run the Project
+
+Key points:
+
+Use three backticks before and after the directory structure.
+
+Don’t use extra backticks for the inner block (markdown or plaintext)—this isn't needed inside a code block.
+
+
+Now, this should work perfectly when you copy and paste into your README file. It will show the directory structure as a code block and the rest of the content will remain unaffected. Let me know how it goes!
+
 
 ## 📝 How to Run the Project
 
