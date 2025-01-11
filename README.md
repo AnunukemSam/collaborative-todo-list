@@ -19,9 +19,6 @@ collaborative-todo-list/
 ├── README.md       # Project documentation
 ├── task.md         # File added during feature development
 
-
-
-
 ## 📝 How to Run the Project
 
 Follow these steps to replicate the project:
@@ -76,7 +73,7 @@ git push
 
 
 
-💡 Key Learnings
+## 💡 Key Learnings
 
 Branching Best Practices: Maintain a structured workflow using main for production, dev for integration, and feature branches for new development.
 
@@ -87,7 +84,7 @@ Conflict Resolution: Handle real-world scenarios where multiple contributors wor
 Git Commands: Deepen understanding of commands like git checkout, git merge, and git push.
 
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Add GitHub Actions to automate branch validation.
 
@@ -96,7 +93,7 @@ Integrate a CI/CD pipeline for testing and deployment.
 Expand the project with issue tracking and multiple contributors.
 
 
-🏆 Achievements
+## 🏆 Achievements
 
 By completing this project, you've:
 
