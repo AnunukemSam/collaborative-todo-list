@@ -27,6 +27,14 @@ Follow these steps to replicate the project:
    ```bash
    git clone https://github.com/AnunukemSam/collaborative-todo-list.git
 
+## 📝 How to Run the Project
+
+Follow these steps to replicate the project:
+
+1. **Clone the Repository**: Clone the GitHub repository to your local machine:
+   ```bash
+   git clone https://github.com/AnunukemSam/collaborative-todo-list.git
+
 2. Navigate to the Project Directory:
 
 cd collaborative-todo-list
