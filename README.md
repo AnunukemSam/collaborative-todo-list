@@ -16,8 +16,8 @@ This project simulates a real-world **Git collaboration workflow**, allowing con
 ## 📂 Repository Structure
 This is how the project is structured:
 
-collaborative-todo-list/ 
-├── README.md       # Project documentation 
+collaborative-todo-list/
+├── README.md       # Project documentation
 ├── task.md         # File added during feature development
 
 ## 📝 How to Run the Project
