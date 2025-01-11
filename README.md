@@ -14,8 +14,8 @@ This project simulates a real-world **Git collaboration workflow**, allowing con
 - **GitHub**: For collaboration, pull requests, and repository hosting.
 
 ## 📂 Repository Structure
-This is how the project is structured:
 
+```plaintext
 collaborative-todo-list/
 ├── README.md       # Project documentation
 ├── task.md         # File added during feature development
